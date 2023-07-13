@@ -1,0 +1,13 @@
+#print "Hello"
+#print("Hello,word!")
+#print (5)
+#print("5")
+#print(5+2)
+#print("82+78")
+#print(82+"78")
+#print("82"+78)
+#print("82"+"78")
+#print(82+72)
+#print(82/8)
+#print(50*5)
+print (90-80)
