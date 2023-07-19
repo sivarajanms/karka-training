@@ -1,0 +1,1 @@
+number=int(input("i will add up the numbers you give me."))

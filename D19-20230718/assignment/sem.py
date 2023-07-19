@@ -1,0 +1,20 @@
+educational+[{"study":"m.tech"},
+             {"institute":"srm"},
+             "sem_marks":[{"sem_name":1,
+                           "subject":["c","c++","java"],
+                           "sem_grade":"A"},
+                           {"sem_name":2,
+                           "subject":["python","css","html"],
+                           "sem_grade":"B"}]
+             "sem_marks":[{"sem_name":3,
+                           "subject":["java script","oops","react"],
+                           "sem_grade":"A"},
+                           {"sem_name":4,
+                           "subject":["sql","alaa","php"],
+                           "sem_grade":"B"}]
+             "sem_marks":[{"sem_name":5,
+                           "subject":["typescript","scala","r"],
+                           "sem_grade":"A"},
+                           {"sem_name":6,
+                           "subject":["xml","c#","vbscript"],
+                           "sem_grade":"B"}]]
