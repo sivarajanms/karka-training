@@ -14,7 +14,7 @@ for i in players:
     name=(i["name"])        
     topbs=(i["topbs"])
     s=0
-    for j in i[224,200,150,100]
+    
 
     
 
