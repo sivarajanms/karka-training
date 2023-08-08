@@ -4,7 +4,7 @@ a=[{"name":"sivarajan","place":"vadasery","hobbies":["cricket","music","movies"]
 for i in (a):
     t=(i["sslc"])
     w=(t["tamil"]+t["english"]+t["maths"]+t["science"]+t["social"])
-    print(w)
+    # print(w)
     average=(w*3)
     print(average) 
 

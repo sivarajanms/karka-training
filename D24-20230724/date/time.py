@@ -17,10 +17,10 @@
 
 
 
-# for i in range(5):
-#     for j in range(5):
-#         print("*",end=" ")
-#     print(" ")
+for i in range(5):
+    for j in range(5):
+        print("*",end=" ")
+    print(" ")
 
 # k=1
 # for i in range(1,6):
@@ -42,6 +42,14 @@ a=[0,0,1,2,3,4]
 #     sum=sum+num
 #     print(sum)
 
-for i in range():
-    a.append(0)
-    print(a)
+# for i in range():
+#     a.append(0)
+#     print(a)
+
+
+from datetime import datetime
+curr_datetime=time(2023,7,25,12,16,56)
+time=datetime.now()
+b=datetime.strptime("24 december 2022","%d%B%y")
+print(b)
+

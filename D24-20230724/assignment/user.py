@@ -67,22 +67,7 @@ print(b)
 
     
 
-   
-
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-# for i in monthly_gold_rate:
+   # for i in monthly_gold_rate:
 #     if max<(i["rate"]):
 #         max=(i["rate"])
     
@@ -93,6 +78,12 @@ print(b)
 #         min=(i["rate"])
 # print(f"{min}")        
 
+a=20
+from datetime import datetime,timedelta
+curr_datetime=datetime.now()
+new_date=curr_datetime+timedelta(a)
+print("current date:",curr_datetime.strftime("%Y-%m-%d"))
+print("new_date:",new_date.strftime("%Y-%m-%d"))
 
 
 

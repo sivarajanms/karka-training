@@ -35,8 +35,7 @@ for i in resume["PERSONALDETAILS"]:
         print(f"{i} : {resume ['PERSONALDETAILS'][i]}")
 
 
-        
-
+   
                          
 
 

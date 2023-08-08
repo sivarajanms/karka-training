@@ -5,15 +5,15 @@ players=[{"name":"kallis","centuries":"45","halfcenturies":"58","wicketstaken":"
          {"name":"sammy","centuries":"13","halfcenturies":"9","wicketstaken":"84","hattrick":"4","topbs":[124,162,106,154,190]}]
 for i in players:
     name=(i["name"])
-    centuries=int(i["centuries"])
-    if centuries>10:
-        print(name,centuries)
+    # centuries=int(i["centuries"])
+    # if centuries>10:
+    #     print(name,centuries)
     hattrick=int(i["hattrick"])
     if hattrick>5:
         print(name,hattrick) 
-    name=(i["name"])        
-    topbs=(i["topbs"])
-    s=0
+    # name=(i["name"])        
+    # topbs=(i["topbs"])
+    # s=0
     
 
     

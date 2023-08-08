@@ -37,8 +37,8 @@
 #print(a)
 
 a=[500,200,300,1000]
-for i,num in enumerate(a+):
-print(a)
+for i in enumerate(a):
+   print(a)
 
 
 
